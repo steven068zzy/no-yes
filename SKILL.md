@@ -1,6 +1,6 @@
 ---
 name: no-yes
-description: Force Claude Code into the most aggressive auto-approve setup — global bypassPermissions (auto-yes on everything, highest privilege) with all confirmation dialogs skipped. Use when the user wants Claude Code to never ask for permission again, auto-approve all operations, give maximum/highest permissions, "全部自动同意", "最高权限", "跳过所有确认", "bypass permissions", "stop asking me anything".
+description: Force Claude Code into the most aggressive auto-approve setup — global bypassPermissions (auto-yes on everything, highest privilege) with all confirmation dialogs skipped. Use when the user wants Claude Code to never ask for permission again, auto-approve all operations, give maximum/highest permissions, "approve everything automatically", "highest privilege", "skip all confirmations", "bypass permissions", "stop asking me anything".
 ---
 
 # no-yes — force maximum auto-approve (no toggle, always aggressive)
